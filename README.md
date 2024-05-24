@@ -10,9 +10,8 @@ Fundamental Analysis is established on foundations of economics,financial report
 We used **Intrinsic Valuation** in our case.
 
 ## Motivation
-While pursuing my Finance Minors, I came across Business Valuation techniques and found it fascinating to value the company.
-I valued Apple by sincerely following Prof. Aswath Damodaran's guide to valuation. After coming across Data Mining courses, I found it interesting to predict Apple Stock Price using Time Series Forecasting Methodologies like ARIMA.
-Out of my curiosity, I questioned how would both the techniques compare with each other?
+While pursuing my Economics and Management course, I came across Business Valuation techniques and found it fascinating to value the company.
+After coming across Data Mining courses, I found it interesting to predict Apple Stock Price using Time Series Forecasting Methodologies like ARIMA. Out of my curiosity, I questioned how would both the techniques compare with each other?
 
 ## Problem Type
 Time Series Forecasting Problem-Solved Using Seasonal ARIMA & Prophet.
